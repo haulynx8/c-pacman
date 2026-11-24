@@ -1,0 +1,5 @@
+[package]
+name = "libcurl"
+description = "Multiprotocol file transfer library (HTTP, FTP, etc.)"
+type = "system"
+version = "^8.0"

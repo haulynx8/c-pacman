@@ -1,0 +1,5 @@
+[package]
+name = "sqlite3"
+description = "Self-contained serverless SQL database engine"
+type = "system"
+version = "^3.40"

@@ -1,0 +1,5 @@
+[package]
+name = "zlib"
+description = "General-purpose lossless data compression library"
+type = "system"
+version = "^1.2"

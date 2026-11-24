@@ -1,0 +1,6 @@
+[package]
+name = "uthash"
+description = "Header-only C hash table and data structures"
+type = "git"
+source = "https://github.com/troydhanson/uthash.git"
+tag = "v2.3.0"

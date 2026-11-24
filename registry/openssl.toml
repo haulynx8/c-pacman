@@ -1,0 +1,5 @@
+[package]
+name = "openssl"
+description = "Cryptography and TLS/SSL networking toolkit"
+type = "system"
+version = "^3.0"

@@ -1,0 +1,6 @@
+[package]
+name = "raylib"
+description = "A simple and easy-to-use library to enjoy videogames programming"
+type = "git"
+source = "https://github.com/raysan5/raylib.git"
+tag = "5.0"

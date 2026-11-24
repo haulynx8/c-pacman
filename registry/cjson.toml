@@ -1,0 +1,6 @@
+[package]
+name = "cJSON"
+description = "Ultralightweight JSON parser in ANSI C"
+type = "git"
+source = "https://github.com/DaveGamble/cJSON.git"
+tag = "v1.7.18"
